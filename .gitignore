@@ -3,3 +3,5 @@ notes-apl-webserver.pem
 notes-api-testing.postman_collection.json
 notes-api-testing.postman_environment.json
 node_modules
+.env
+.prod.env
